@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Constantin Kaplaner"
+  favicon: images/favicon.ico
+  search: false
+
+  navbar:
+    background: "dark"
+    pinned: true
+    left:
+      - text: "About"
+        href: index.qmd#about
+      - text: "Publications"
+        href: index.qmd#publications
+      - text: "CV"
+        href: index.qmd#cv
+
+  page-footer:
+    left: "© 2025 Constantin Kaplaner"
+    right: 
+      - icon: envelope
+        href: mailto:constantin.kaplaner@gsi.uni-muenchen.de
+
+format:
+  html:
+    css: styles.css
+    fonts:
+      body: "Inter"
+      heading: "DM Sans"
+
+    toc: false
+    smooth-scroll: true
+    grid:
+      body-width: 900px

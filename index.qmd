@@ -1,0 +1,91 @@
+---
+title: ""
+format:
+  html:
+    css: styles.css
+---
+
+## About  {#about}
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+
+![](files/profile.jpg){style="border-radius: 100px;" width=160px fig-align="left"}
+
+**Constantin Kaplaner**
+
+LMU Munich +          
+Zeppelin University Friedrichshafen
+
+[![Scholar](images/svg/google-scholar.svg){width=20px}](https://scholar.google.de/citations?user=NqYbK7gAAAAJ&hl=en&oi=ao)
+[![cv](images/svg/cv.svg){width=20px}](cv-2025.pdf)
+[✉️](mailto:constantin.kaplaner@gsi.uni-muenchen.de)  [![ORCID  ](images/svg/orcid.svg){width=20px}](https://orcid.org/0000-0001-8830-6394) 
+::: 
+
+
+::: {.column width="70%"}
+
+I am a pre-doctoral research fellow at LMU Munich and Zeppelin University, contributing to the ERC-funded projects **CRISPOL** and **DEMOLAW**. My research investigates how legal and administrative systems cope with the structural demands of modern governance — growing policy complexity, limited institutional capacity, and the need to prioritize under pressure.
+
+Substantively, I study how these constraints shape the production, content, and implementation of policy: from legislative innovation and impact in periods of rapid change, to administrative coping in overloaded bureaucracies, to the consequences of complexity for implementation success. A central theme across my work is how institutions adapt—or fall short—when functional demands outpace control.
+
+Methodologically, I use computational text analysis, network science, and causal inference to examine legal and policy systems in complex, multi-level settings like the EU and the US. My work has appeared — among other — in *Political Analysis*, *Public Administration Review*, *Journal of Public Administration Research and Theory* and the *Journal of European Public Policy*.
+
+I hold an M.A. in Political Science and Public Administration from the University of Konstanz and a B.A. in Political Science from LMU Munich. I am currently completing my PhD at LMU Munich (expected 2025).
+
+:::
+
+::::
+
+## Publications
+
+**Peer-reviewed journal articles**
+
+1. **Kaplaner, C.**, Knill, C., & Steinebach, Y. (2025). *Administrative Overload and Policy Triage: Causal Evidence from the Introduction of the Acid Rain Program in the United States.* Conditionally accepted at *Journal of Public Administration Research and Theory*.
+
+2. **Kaplaner, C.**, Knill, C., & Steinebach, Y. (2025). *Policy Integration in the European Union: Mapping Patterns of Intersectoral Policy-Making over Time and across Policy Sectors.* *Journal of European Public Policy*, 32(1), 26–51. [Link](https://doi.org/10.1080/13501763.2023.2288932)
+
+3. **Kaplaner, C.**, & Steinebach, Y. (2024). *Coping Practices and the Spatial Dimension of Authority Design.* *Public Administration Review*, 84(1), 86–99. [Link](https://doi.org/10.1111/puar.13654)
+
+4. Haag, M., Hurka, S., & **Kaplaner, C.** (2024). *Policy Complexity and Implementation Performance in the European Union.* *Regulation & Governance*. [Link](https://doi.org/10.1111/rego.12580)
+
+5. Hurka, S., Haag, M., & **Kaplaner, C.** (2023). *Proposal Complexity and Report Allocation in the European Parliament.* *European Union Politics*, 24(2), 307–326. [Link](https://doi.org/10.1177/14651165221144888)
+
+6. **Kaplaner, C.**, & Steinebach, Y. (2022). *Why We Should Use the Gini Coefficient to Assess Punctuated Equilibrium Theory.* *Political Analysis*, 30(3), 450–455. [Link](https://doi.org/10.1017/pan.2021.25)
+
+7. Hurka, S., Haag, M., & **Kaplaner, C.** (2022). *Policy Complexity in the European Union, 1993–Today: Introducing the EUPLEX Dataset.* *Journal of European Public Policy*, 29(9), 1512–1527. [Link](https://doi.org/10.1080/13501763.2021.1938174)
+
+8. Bayerlein, L., **Kaplaner, C.**, Knill, C., & Steinebach, Y. (2022). *Singing Together or Apart? Comparing Policy Agenda Dynamics within International Organizations.* *Journal of Comparative Policy Analysis*, 24(3), 210–229. [Link](https://doi.org/10.1080/13876988.2020.1813031)
+
+9. Hurka, S., & **Kaplaner, C.** (2020). *Are Popular and Powerful Committees More Representative? Evidence from the Ninth European Parliament.* *Research & Politics*, 7(2), 1–9. [Link](https://doi.org/10.1177/2053168020914453)
+
+---
+
+**Working papers**
+
+1. [*From Momentum to Meaning: Legislative Innovation and Impact in EU Policy Punctuations.*](files/kaplaner_moment_to_meaning.pdf)
+
+2. [*Complex Systems, Costly Change: How Functional Feedback Shapes Policy Punctuations.*](files/kaplaner_complex_costly.pdf)
+
+3. *Lobbying, Complexity, & Resources* (available upon request), with Haag, M. & Hurka, S.
+
+4. *Navigating Crisis Perceptions and Functional Pressures in Migration Policy* (available upon request), with Lenz, A., Millich, V., Steinbacher, C., Knill, C., Steinebach, Y., Fochler, C., & Kolbe, A.
+
+5. *Balancing Versatility and Precision: A Framework for Capturing Legislative Design Choices in Democratic Systems* (available upon request), with Cowburn, M., Hurka, S., & Rueß, S.
+
+---
+
+**Book chapters**
+
+1. Steinebach, Y., Knill, C., **Kaplaner, C.**, & Bayerlein, L. (2022). *Bureaucratic Agency and Policy Performance in International Organizations.* In *International Public Administrations in Global Public Policy: Sources and Effects of Bureaucratic Influence*. Routledge.
+
+2. Hurka, S., & **Kaplaner, C.** (2020). *Präferenzverteilungen in den Ausschüssen des neu gewählten Europäischen Parlaments.* In *Die Europawahl 2019* (pp. 391–405). Springer VS.
+
+---
+
+## CV {#cv}
+
+[Download CV (PDF)](files/cv-2025.pdf)
+

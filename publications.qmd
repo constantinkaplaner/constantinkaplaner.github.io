@@ -1,0 +1,22 @@
+---
+title: "Publications"
+format:
+  html:
+    css: styles.css
+---
+
+1. Kaplaner, Constantin; Knill, Christoph; Steinebach, Yves. *Policy Integration in the European Union: Mapping Patterns of Intersectoral Policy-Making over Time and across Policy Sectors.* Journal of European Public Policy, 32(1), 26–51, 2025. [Link](https://doi.org/10.1080/13501763.2023.2288932)
+
+2. Kaplaner, Constantin; Steinebach, Yves. *Coping Practices and the Spatial Dimension of Authority Design.* Public Administration Review, 84(1), 86–99, 2024. [Link](https://doi.org/10.1111/puar.13654)
+
+3. Haag, Maximilian; Hurka, Steffen; Kaplaner, Constantin. *Policy Complexity and Implementation Performance in the European Union.* Regulation & Governance, 2024. [Link](https://doi.org/10.1111/rego.12580)
+
+4. Kaplaner, Constantin; Steinebach, Yves. *Why We Should Use the Gini Coefficient to Assess Punctuated Equilibrium Theory.* Political Analysis, 30(3), 450–455, 2022. [Link](https://doi.org/10.1017/pan.2021.25)
+
+5. Hurka, Steffen; Haag, Maximilian; Kaplaner, Constantin. *Proposal Complexity and Report Allocation in the European Parliament.* European Union Politics, 24(2), 307–326, 2023. [Link](https://doi.org/10.1177/14651165221144888)
+
+6. Hurka, Steffen; Haag, Maximilian; Kaplaner, Constantin. *Policy Complexity in the European Union, 1993–Today: Introducing the EUPLEX Dataset.* Journal of European Public Policy, 29(9), 1512–1527, 2022. [Link](https://doi.org/10.1080/13501763.2021.1938174)
+
+7. Bayerlein, Louisa; Kaplaner, Constantin; Knill, Christoph; Steinebach, Yves. *Singing Together or Apart? Comparing Policy Agenda Dynamics within International Organizations.* Journal of Comparative Policy Analysis: Research and Practice, 24(3), 210–229, 2022. [Link](https://doi.org/10.1080/13876988.2020.1813031)
+
+8. Hurka, Steffen; Kaplaner, Constantin. *Are Popular and Powerful Committees More Representative? Evidence from the Ninth European Parliament.* Research & Politics, 7(2), 2020. [Link](https://doi.org/10.1177/2053168020914453)
