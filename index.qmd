@@ -5,8 +5,6 @@ format:
     css: styles.css
 ---
 
-## About  {#about}
-
 :::: {.columns}
 
 ::: {.column width="30%"}
@@ -31,7 +29,7 @@ I am a pre-doctoral research fellow at LMU Munich and Zeppelin University, contr
 
 Substantively, I study how these constraints shape the production, content, and implementation of policy: from legislative innovation and impact in periods of rapid change, to administrative coping in overloaded bureaucracies, to the consequences of complexity for implementation success. A central theme across my work is how institutions adapt—or fall short—when functional demands outpace control.
 
-Methodologically, I use computational text analysis, network science, and causal inference to examine legal and policy systems in complex, multi-level settings like the EU and the US. My work has appeared — among other — in *Political Analysis*, *Public Administration Review*, *Journal of Public Administration Research and Theory* and the *Journal of European Public Policy*.
+Methodologically, I use computational text analysis, network science, and causal inference to examine legal and policy systems in complex, multi-level settings like the EU and the US. My work has appeared — among other — in *Political Analysis*, *Public Administration Review*, and the *Journal of European Public Policy*.
 
 I hold an M.A. in Political Science and Public Administration from the University of Konstanz and a B.A. in Political Science from LMU Munich. I am currently completing my PhD at LMU Munich (expected 2025).
 
