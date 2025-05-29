@@ -77,3 +77,27 @@ section {
   margin-top: -70px;
   visibility: hidden;
 }
+
+
+/* Default column layout (for desktop) */
+.columns {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+/* Each column respects the width you've assigned (e.g., 30% / 70%) */
+.column {
+  flex: 1;
+}
+
+/* Responsive override for small screens (mobile) */
+@media (max-width: 768px) {
+  .columns {
+    flex-direction: column;
+  }
+
+  .column {
+    width: 100% !important;
+  }
+}
